@@ -4,8 +4,8 @@
             "path": "force-app",
             "default": true,
             "package": "GIFter",
-            "versionName": "Version 1.0",
-            "versionNumber": "1.0.0.NEXT"
+            "versionName": "Version 1.1",
+            "versionNumber": "1.1.0.NEXT"
         }
     ],
     "namespace": "",
@@ -13,6 +13,7 @@
     "sourceApiVersion": "47.0",
     "packageAliases": {
         "GIFter": "0Ho2x000000PAtzCAG",
-        "GIFter@1.0.0-1": "04t2x000000n7W7AAI"
+        "GIFter@1.0.0-1": "04t2x000000n7W7AAI",
+        "GIFter@1.1.0-1": "04t2x000000n7qqAAA"
     }
 }
